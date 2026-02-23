@@ -4,7 +4,7 @@ export default defineConfig({
   srcDir: "docs",
   base: "/course-work-user-guide/",
 
-  title: "User guide ",
+  title: "Course work",
   description: "User guide for course work ",
   themeConfig: {
     nav: [{ text: "Home", link: "/" }],
@@ -34,7 +34,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/nifle3/diplom_work" },
     ],
   },
 });
