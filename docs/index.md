@@ -1,25 +1,12 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# Руководство пользователя Interview Master AI
 
-hero:
-  name: "User guide "
-  text: "User guide for course work "
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+Данный документ описывает порядок работы с системой Interview Master AI.
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+Здесь вы найдете инструкции по:
 
+- регистрации и входу в систему,
+- прохождению интервью,
+- просмотру результатов,
+- отслеживанию прогресса,
+- созданию и настройке сценариев,
+- администрированию платформы.
